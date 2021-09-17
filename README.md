@@ -1,4 +1,4 @@
-# Kinetic Loader
+# Quiz App
 
 ---
 
